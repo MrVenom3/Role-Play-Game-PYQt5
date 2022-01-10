@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>cesaretsavas2</class>
+ <widget class="QDialog" name="cesaretsavas2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>849</width>
+    <height>447</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Cesaret Yolu!</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>D:/İndirilenler/Icondesigner.net-Hyperion-Sidebar-Library.ico</normaloff>D:/İndirilenler/Icondesigner.net-Hyperion-Sidebar-Library.ico</iconset>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>10</y>
+     <width>491</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#aa00ff;&quot;&gt;&amp;quot;Yerdeki eski ve paslı kılıcı aldın ve Minotor'a doğrulttun.O anda kılıcın birden parlamaya başladı. &amp;quot;O kadar çok parladı ki odada hiçbir şeyi göremez oldun,gözlerini bile açamıyorsun.Parıltı gittiğinde Minotor'u baygın bir şekilde buluyorsun. &amp;quot;Görünüşe göre tanrılar cesaretini ödüllendirdi.Tebrikler bu testi geçtin gibi gözüküyor! Ama dikkat et Tanrılar seni daha sınamak isteyecektir. &amp;quot;Odadan çıktığında bulutların üzerinde ucu görünmeyen bir asma köprüyle karşılaşıyorsun.Başka yol yok. &amp;quot;Köprüden ilerlemeye başlıyorsun ve köprünün tam ortasında bir Centaur olduğunu görüyorsun.Yayını sana doğrultuyor.Ne Yapacaksın?&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>340</y>
+     <width>151</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Kaçmaya başla!</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>340</y>
+     <width>161</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Centaur'a Koş!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>20</y>
+     <width>241</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Desktop/ResimlerProje/cent.jpg</pixmap>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

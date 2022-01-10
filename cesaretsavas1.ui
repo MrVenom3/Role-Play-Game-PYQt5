@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>cesaretsavas1</class>
+ <widget class="QDialog" name="cesaretsavas1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>854</width>
+    <height>440</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Cesaret Yolu!</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>D:/İndirilenler/Icondesigner.net-Hyperion-Sidebar-Library.ico</normaloff>D:/İndirilenler/Icondesigner.net-Hyperion-Sidebar-Library.ico</iconset>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>431</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#f5ba08;&quot;&gt;Centaur'a doğru koşmaya başladın,elinde hiçbir şey yok ne yapman gerektiğini bilmiyorsun ama yine de gözükara bir şekilde savaş narası atarak üstüne koşuyorsun. &amp;quot;Centaur okunu neredeyse fırlatacak!Yine de durmuyorsun.Üstüne gelen okun vızıltısını duyuyorsun ama durmadan koşuyorsun ve ok tam göğsünün önüne geldiğinde birden toza dönüşüyor.&amp;quot; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#f5ba08;&quot;&gt;&amp;quot;Ne olduğunu anlamıyorsun şaşkın bir biçimde etrafına bakınırken birden her yer sallanmaya başlıyor ve kendini çok büyük ve ihtişamlı bir salonda buluyorsun.&amp;quot;				 &amp;quot;İleride Taht olduğunu düşündüğün yapıda oturan bir silüet görüyorsun.Ayağa kalkıp sana doğru yürümeye başlıyor.Önüne geldiğinde senden ne kadar iri ve güçlü olduğunu gördüğün bu kişinin Savaş Tanrısı Ares olduğunu görüyorsun&amp;quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#f5ba08;&quot;&gt; &amp;quot;Ne kadar cesaretli ve gözükara olduğunu buraya gelişin ile kanıtladın savaşçı!Bundan sonra ben Tanrı Ares'in bizzat ilan ettiği yaşayanlar arasından en cesur insan seçildin!&amp;quot;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600; font-style:italic; color:#f5ba08;&quot;&gt; &amp;quot;Tanrı Ares'in önünde diz çöküyorsun ve hayatını insanları korumaya adıyorsun!Tebrikler Başardın!&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>330</y>
+     <width>181</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>BAŞARDIM!</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>30</y>
+     <width>391</width>
+     <height>351</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../../Desktop/ResimlerProje/ares.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>390</y>
+     <width>331</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 italic 22pt &quot;Palatino Linotype&quot;;
+text-decoration: line-through;
+background-color: rgb(255, 210, 187);
+color: rgb(170, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>KUTSAL SAVAŞÇI</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
